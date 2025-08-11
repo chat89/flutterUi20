@@ -6,7 +6,6 @@ It was created specifically for your assignment (Option B: recreate UI without e
 ## What is included
 - Complete `lib/` source with provider-based structure.
 - `assets/images/` folder containing placeholder images so assets folder is not empty.
-- Platform folders: `android/`, `ios/`, `web/` with README placeholders (regenerate via `flutter create .` if you need full platform build files).
 - `test/` folder with a basic example test.
 - `pubspec.yaml` and `.gitignore`.
 
@@ -19,5 +18,3 @@ It was created specifically for your assignment (Option B: recreate UI without e
 
 ## Notes about originality
 - All Dart code in `lib/` is original and written specifically for this assignment.
-- Placeholder images are simple, generated here to avoid any copyrighted third-party assets.
-- To use your Figma artwork, export images from Figma and place them into `assets/images/`.
