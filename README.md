@@ -1,4 +1,4 @@
-# Weather App - Full Flutter Project (Option B)
+# Weather App - Full Flutter Project 
 
 This project is an original Flutter UI implementation of a weather app inspired by the provided Figma design.
 It was created specifically for your assignment (Option B: recreate UI without embedding Figma artwork).
