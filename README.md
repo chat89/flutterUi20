@@ -16,5 +16,4 @@ This project is an original Flutter UI implementation of a weather app inspired 
 4. Run `flutter pub get`.
 5. Run `flutter run` on an emulator or device.
 
-## Notes about originality
-- All Dart code in `lib/` is original and written specifically for this assignment.
+
